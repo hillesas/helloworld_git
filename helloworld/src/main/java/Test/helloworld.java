@@ -3,6 +3,6 @@ package Test;
 public class helloworld {
 	
 	public void test (String[] args) { 
-	      System.out.println("Hello, Bonjour, Hola, World");
+	      System.out.println("Hello World, Good Night World");
 }
 }
